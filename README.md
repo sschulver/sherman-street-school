@@ -1,9 +1,3 @@
-# sherman-street-school
-
-layout: page
-title: "Introduction"
-permalink: /introduction
-
 ### Introduction
 
 - [ ]  Planet Earth: The Solar System and Planets
