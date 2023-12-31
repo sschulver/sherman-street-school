@@ -1,6 +1,6 @@
 ### Introduction
 
-- [ ]  Planet Earth: The Solar System and Planets
+[ ]  Planet Earth: The Solar System and Planets
     - [ ]  *Geography: A Visual Encyclopedia* – Introduction – pg. 13
     - [ ]  Explore the information and games at NASA’s Space Place: [https://spaceplace.nasa.gov/menu/solar-system/](https://spaceplace.nasa.gov/menu/solar-system/)
 - [ ]  Introduction to the Animal Kingdom: The classification system, kingdoms Monera, Fungi, and Protoctista
